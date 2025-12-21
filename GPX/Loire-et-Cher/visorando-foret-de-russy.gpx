@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx version="1.1" creator="Visorando" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+  <name>Forêt de Russy</name>
+  <link href="https://www.visorando.com/randonnee-foret-de-russy/">
+    <text>https://www.visorando.com/randonnee-foret-de-russy/</text>
+  </link>
+</metadata><wpt lat="47.562034" lon="1.355019">
+  <ele>96</ele>
+  <time>2025-06-08T11:08:34.000Z</time>
+  <name>Parking en bordure des installations sportives </name>
+  <type>GENERIC</type>
+</wpt><wpt lat="47.560797" lon="1.356567">
+  <ele>99</ele>
+  <time>2025-06-08T11:12:10.000Z</time>
+  <name>Bifurcation au panneau circulation réglementé</name>
+  <type>GENERIC</type>
+</wpt><wpt lat="47.553578" lon="1.364086">
+  <ele>101</ele>
+  <time>2025-06-08T11:35:04.000Z</time>
+  <name>Carrefour de pistes</name>
+  <type>GENERIC</type>
+</wpt><wpt lat="47.547957" lon="1.361329">
+  <ele>98</ele>
+  <time>2025-06-08T11:48:53.000Z</time>
+  <name>Petit pont à gauche.</name>
+  <type>GENERIC</type>
+</wpt><wpt lat="47.540628" lon="1.362537">
+  <ele>100</ele>
+  <time>2025-06-08T12:03:18.000Z</time>
+  <name>Allée du Coteau </name>
+  <type>GENERIC</type>
+</wpt><wpt lat="47.535628" lon="1.369262">
+  <ele>97</ele>
+  <time>2025-06-08T12:19:57.000Z</time>
+  <name>À droite entre les lots 58 et 57</name>
+  <type>GENERIC</type>
+</wpt><wpt lat="47.527295" lon="1.35823">
+  <ele>102</ele>
+  <time>2025-06-08T12:47:44.000Z</time>
+  <name>À droite entre les parcelles 61 et 62</name>
+  <type>GENERIC</type>
+</wpt><wpt lat="47.534877" lon="1.361056">
+  <ele>100</ele>
+  <time>2025-06-08T13:06:51.000Z</time>
+  <name>Bordure parcelle 67</name>
+  <type>GENERIC</type>
+</wpt><wpt lat="47.542423" lon="1.357358">
+  <ele>98</ele>
+  <time>2025-06-08T13:23:18.000Z</time>
+  <name>Bifurcation piste en diagonale</name>
+  <type>GENERIC</type>
+</wpt><wpt lat="47.547639" lon="1.357027">
+  <ele>97</ele>
+  <time>2025-06-08T13:34:05.000Z</time>
+  <name>À gauche entre les parcelles 83 et 82 </name>
+  <type>GENERIC</type>
+</wpt><wpt lat="47.562049" lon="1.355041">
+  <ele>96</ele>
+  <time>2025-06-08T14:03:05.000Z</time>
+  <name>Parking en bordure des installations sportives</name>
+  <type>GENERIC</type>
+</wpt><trk>
+  <name>Forêt de Russy</name>
+  <trkseg>
+    <trkpt lat="47.562034" lon="1.355019">
+      <ele>96</ele>
+      <time>2025-06-08T11:08:34.000Z</time>
+    </trkpt>
+    <trkpt lat="47.560797" lon="1.356567">
+      <ele>99</ele>
+      <time>2025-06-08T11:12:10.000Z</time>
+    </trkpt>
+    <trkpt lat="47.560302" lon="1.356466">
+      <ele>99</ele>
+      <time>2025-06-08T11:13:07.000Z</time>
+    </trkpt>
+    <trkpt lat="47.55949" lon="1.356975">
+      <ele>99</ele>
+      <time>2025-06-08T11:14:48.000Z</time>
+    </trkpt>
+    <trkpt lat="47.553138" lon="1.358136">
+      <ele>100</ele>
+      <time>2025-06-08T11:27:11.000Z</time>
+    </trkpt>
+    <trkpt lat="47.553578" lon="1.364086">
+      <ele>101</ele>
+      <time>2025-06-08T11:35:04.000Z</time>
+    </trkpt>
+    <trkpt lat="47.548214" lon="1.364086">
+      <ele>98</ele>
+      <time>2025-06-08T11:45:18.000Z</time>
+    </trkpt>
+    <trkpt lat="47.547957" lon="1.361329">
+      <ele>98</ele>
+      <time>2025-06-08T11:48:53.000Z</time>
+    </trkpt>
+    <trkpt lat="47.540628" lon="1.362537">
+      <ele>100</ele>
+      <time>2025-06-08T12:03:18.000Z</time>
+    </trkpt>
+    <trkpt lat="47.540163" lon="1.363914">
+      <ele>99</ele>
+      <time>2025-06-08T12:05:17.000Z</time>
+    </trkpt>
+    <trkpt lat="47.535281" lon="1.365254">
+      <ele>98</ele>
+      <time>2025-06-08T12:14:45.000Z</time>
+    </trkpt>
+    <trkpt lat="47.535628" lon="1.369262">
+      <ele>97</ele>
+      <time>2025-06-08T12:19:57.000Z</time>
+    </trkpt>
+    <trkpt lat="47.530397" lon="1.37045">
+      <ele>101</ele>
+      <time>2025-06-08T12:30:44.000Z</time>
+    </trkpt>
+    <trkpt lat="47.527295" lon="1.35823">
+      <ele>102</ele>
+      <time>2025-06-08T12:47:44.000Z</time>
+    </trkpt>
+    <trkpt lat="47.534474" lon="1.356973">
+      <ele>102</ele>
+      <time>2025-06-08T13:01:32.000Z</time>
+    </trkpt>
+    <trkpt lat="47.534877" lon="1.361056">
+      <ele>100</ele>
+      <time>2025-06-08T13:06:51.000Z</time>
+    </trkpt>
+    <trkpt lat="47.541646" lon="1.359766">
+      <ele>98</ele>
+      <time>2025-06-08T13:19:52.000Z</time>
+    </trkpt>
+    <trkpt lat="47.542423" lon="1.357358">
+      <ele>98</ele>
+      <time>2025-06-08T13:23:18.000Z</time>
+    </trkpt>
+    <trkpt lat="47.547593" lon="1.356381">
+      <ele>98</ele>
+      <time>2025-06-08T13:33:15.000Z</time>
+    </trkpt>
+    <trkpt lat="47.547639" lon="1.357027">
+      <ele>97</ele>
+      <time>2025-06-08T13:34:05.000Z</time>
+    </trkpt>
+    <trkpt lat="47.552949" lon="1.356048">
+      <ele>99</ele>
+      <time>2025-06-08T13:44:38.000Z</time>
+    </trkpt>
+    <trkpt lat="47.55299" lon="1.35642">
+      <ele>99</ele>
+      <time>2025-06-08T13:45:07.000Z</time>
+    </trkpt>
+    <trkpt lat="47.55379" lon="1.356088">
+      <ele>99</ele>
+      <time>2025-06-08T13:46:42.000Z</time>
+    </trkpt>
+    <trkpt lat="47.559266" lon="1.355111">
+      <ele>98</ele>
+      <time>2025-06-08T13:57:14.000Z</time>
+    </trkpt>
+    <trkpt lat="47.55935" lon="1.354933">
+      <ele>98</ele>
+      <time>2025-06-08T13:57:31.000Z</time>
+    </trkpt>
+    <trkpt lat="47.559998" lon="1.3548">
+      <ele>98</ele>
+      <time>2025-06-08T13:58:46.000Z</time>
+    </trkpt>
+    <trkpt lat="47.560608" lon="1.354873">
+      <ele>98</ele>
+      <time>2025-06-08T13:59:56.000Z</time>
+    </trkpt>
+    <trkpt lat="47.561224" lon="1.354507">
+      <ele>96</ele>
+      <time>2025-06-08T14:01:12.000Z</time>
+    </trkpt>
+    <trkpt lat="47.561624" lon="1.354443">
+      <ele>96</ele>
+      <time>2025-06-08T14:01:58.000Z</time>
+    </trkpt>
+    <trkpt lat="47.562049" lon="1.355041">
+      <ele>96</ele>
+      <time>2025-06-08T14:03:05.000Z</time>
+    </trkpt>
+  </trkseg>
+</trk></gpx>
